@@ -1,0 +1,146 @@
+[
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Equipment"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Experiment",
+        "id": "01"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Area"
+            },
+            {
+                "role": "Content"
+            }
+        ],
+        "event_type": "Manoeuvre",
+        "id": "02"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Militaryforce"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Deploy",
+        "id": "03"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Object"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Materials"
+            }
+        ],
+        "event_type": "Support",
+        "id": "04"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Result"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Accident",
+        "id": "05"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Equipment"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Exhibit",
+        "id": "06"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Object"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Conflict",
+        "id": "07"
+    },
+    {
+        "role_list": [
+            {
+                "role": "Subject"
+            },
+            {
+                "role": "Quantity"
+            },
+            {
+                "role": "Date"
+            },
+            {
+                "role": "Location"
+            }
+        ],
+        "event_type": "Injure",
+        "id": "08"
+    }
+]
